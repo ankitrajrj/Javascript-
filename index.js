@@ -11,6 +11,10 @@ var accountPassword = "12345";
 
 accountBranch = "sasaram";
 
+// we can also define undefined varibales 
+
+let accountState;
+
 //----------
 /*
 do not use var 
