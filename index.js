@@ -12,7 +12,10 @@ var accountPassword = "12345";
 accountBranch = "sasaram";
 
 //----------
-
+/*
+do not use var 
+beacuse of issue in block scope and functional scope 
+*/
 // accountId = 34342;
 
 accEmail = "acc23232@mail";
