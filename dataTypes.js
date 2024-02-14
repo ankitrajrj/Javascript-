@@ -22,4 +22,8 @@
 
 // JavaScript is a dynamically typed language
 
+//-------------------------------------------
+
+// Stack (Primitive) -- ishme hame  copyof value milta hai , Heap(Non-Primitive) -- ishme direct referance milta hai 
+
 
