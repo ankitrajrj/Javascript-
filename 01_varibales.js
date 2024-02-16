@@ -1,7 +1,7 @@
 
 // variable is like a temprory space which is used to
 // store person data like name , address, ad many more
-// constanta are final variable which value can't change 
+// constants are final variable which value can't change 
 
 const accountId = 144553;
 
