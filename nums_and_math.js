@@ -51,7 +51,7 @@ console.log(Math.min(4,3,6,8));
 console.log(Math.max(4,3,6,8));
 
 
-//
+
 
 console.log(Math.floor(Math.random()*50 + 1)); // +1 karne se minimum jo value hai wo 1 aaegi 
 
