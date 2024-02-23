@@ -5,7 +5,7 @@
 function chai(){
 
     console.log('DB Connection');
-    
+
 }
 
 // chai();
@@ -28,13 +28,13 @@ function chai(){
 //-------------------------------------------
 
 
-( function aurCode(name){
+( function CodeTwo(name){ //Named IIFE - kiu ke ishka name hai
     console.log(`DB CONNECTION ${name}`)
 })('hitesh');
 
 //-------------------------------------------
 
-((UserName) =>{
+((UserName) =>{ // simple IIFe without name
     console.log(`DB CONNECTION ${UserName}`)
 })('Ankit');
 
